@@ -1,6 +1,6 @@
 # B1 Hören / Listening
 
-H�rübungen zur Vorbereitung auf das Goethe-Zertifikat B1.
+Hörübungen zur Vorbereitung auf das Goethe-Zertifikat B1.
 
 ---
 
@@ -51,9 +51,9 @@ H�rübungen zur Vorbereitung auf das Goethe-Zertifikat B1.
 > — Nein, gar nicht. Es gibt so viele leckere vegetarische Gerichte. Und ich habe sogar abgenommen.
 
 **Was stimmt?**
-1. Sie ernährt sich seit einem Jahr vegetarisch. → **Falsch** (drei Monate)
-2. Am Anfang war es einfach für sie. → **Falsch**
-3. Sie fühlt sich jetzt besser. → **Richtig**
+1. Sie ernährt sich seit einem Jahr vegetarisch. — **Falsch** (drei Monate)
+2. Am Anfang war es einfach für sie. — **Falsch**
+3. Sie fühlt sich jetzt besser. — **Richtig**
 
 ---
 
@@ -63,10 +63,10 @@ H�rübungen zur Vorbereitung auf das Goethe-Zertifikat B1.
 > Und hier die Verkehrsmeldungen: Auf der A7 Richtung Hamburg gibt es zwischen Hannover-Nord und Soltau einen Stau von 8 Kilometern wegen einer Baustelle. Die Umleitung führt über die B3. Autofahrer sollten mit etwa 40 Minuten Verzögerung rechnen. Auf der A1 Richtung Bremen fließt der Verkehr wieder normal.
 
 **Fragen:**
-1. Auf welcher Autobahn gibt es Stau? → **A7**
-2. Wie lang ist der Stau? → **8 Kilometer**
-3. Warum gibt es Stau? → **Baustelle**
-4. Wie viel Verspätung muss man einplanen? → **40 Minuten**
+1. Auf welcher Autobahn gibt es Stau? — **A7**
+2. Wie lang ist der Stau? — **8 Kilometer**
+3. Warum gibt es Stau? — **Baustelle**
+4. Wie viel Verspätung muss man einplanen? — **40 Minuten**
 
 ---
 
@@ -83,10 +83,10 @@ H�rübungen zur Vorbereitung auf das Goethe-Zertifikat B1.
 > **B:** Na dann, viel Erfolg! Ich drücke dir die Daumen.
 
 **Fragen:**
-1. Warum will A den Job kündigen? → **Die Arbeit ist langweilig und der Chef ist schwierig**
-2. Was hat A vor? → **Eine Weiterbildung im Bereich Webdesign**
-3. Wie lange dauert die Weiterbildung? → **Sechs Monate**
-4. Hat A finanzielle Sorgen? → **Nein, er/sie hat gespart**
+1. Warum will A den Job kündigen? — **Die Arbeit ist langweilig und der Chef ist schwierig**
+2. Was hat A vor? — **Eine Weiterbildung im Bereich Webdesign**
+3. Wie lange dauert die Weiterbildung? — **Sechs Monate**
+4. Hat A finanzielle Sorgen? — **Nein, er/sie hat gespart**
 
 ---
 
@@ -100,21 +100,21 @@ H�rübungen zur Vorbereitung auf das Goethe-Zertifikat B1.
 > Es gibt allerdings auch Probleme. Viele Vereine klagen darüber, dass es immer schwieriger wird, Freiwillige zu finden. Besonders ältere Menschen engagieren sich weniger als früher, weil sie länger arbeiten müssen.
 
 **Richtig oder Falsch?**
-1. 40% der Deutschen über 14 sind ehrenamtlich aktiv. → **Richtig**
-2. Am meisten engagieren sich Menschen im Bereich Musik. → **Falsch** (Sport)
-3. Ehrenamt kann berufliche Vorteile haben. → **Richtig**
-4. Es wird leichter, Freiwillige zu finden. → **Falsch** (schwieriger)
+1. 40% der Deutschen über 14 sind ehrenamtlich aktiv. — **Richtig**
+2. Am meisten engagieren sich Menschen im Bereich Musik. — **Falsch** (Sport)
+3. Ehrenamt kann berufliche Vorteile haben. — **Richtig**
+4. Es wird leichter, Freiwillige zu finden. — **Falsch** (schwieriger)
 
 ---
 
 ## Nützlicher Wortschatz für Hörverstehen
 
 ### Meinungsäußerungen erkennen
-- "Ich finde / glaube / denke, dass ..." → Meinung
-- "Meiner Meinung nach ..." → Meinung
-- "Da bin ich anderer Meinung." → Widerspruch
-- "Das sehe ich genauso." → Zustimmung
-- "Das stimmt, aber ..." → Teilweise Zustimmung
+- "Ich finde / glaube / denke, dass ..." — Meinung
+- "Meiner Meinung nach ..." — Meinung
+- "Da bin ich anderer Meinung." — Widerspruch
+- "Das sehe ich genauso." — Zustimmung
+- "Das stimmt, aber ..." — Teilweise Zustimmung
 
 ### Tipps für die Prüfung
 1. **Teil 1:** Nur EINMAL hören — sofort die Hauptaussage erfassen

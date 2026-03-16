@@ -1,6 +1,6 @@
 # A2 Hören / Listening
 
-H�rübungen zur Vorbereitung auf das Goethe-Zertifikat A2.
+Hörübungen zur Vorbereitung auf das Goethe-Zertifikat A2.
 
 ---
 
@@ -17,21 +17,32 @@ H�rübungen zur Vorbereitung auf das Goethe-Zertifikat A2.
 
 ---
 
+## Strategien
+
+1. **Vor dem Hören:** Alle Aufgaben lesen, Schlüsselwörter markieren
+2. **Schlüsselwörter markieren:** Unterstreichen Sie wichtige Wörter in den Fragen
+3. **Beim ersten Hören:** Versuchen Sie, die Hauptinformation zu verstehen
+4. **Beim zweiten Hören:** Konzentrieren Sie sich auf Details
+5. **Zahlen und Namen:** Besonders auf Uhrzeiten, Preise und Namen achten
+6. **Nicht verstanden?:** Raten Sie — lassen Sie nichts leer!
+
+---
+
 ## Teil 1: Anrufbeantworter-Nachrichten
 
 ### Hörtext 1: Zahnarzt
 > Guten Tag, hier ist die Zahnarztpraxis Dr. Hoffmann. Leider müssen wir Ihren Termin am Dienstag, 15. März, um 14 Uhr absagen, weil Herr Dr. Hoffmann erkrankt ist. Wir bieten Ihnen als neuen Termin Donnerstag, den 17. März, um 10 Uhr an. Bitte rufen Sie uns zurück unter 089-3344556. Vielen Dank!
 
 **Fragen:**
-1. Warum wird der Termin abgesagt? → **Dr. Hoffmann ist krank**
-2. Wann ist der neue Termin? → **Donnerstag, 17. März, um 10 Uhr**
+1. Warum wird der Termin abgesagt? — **Dr. Hoffmann ist krank**
+2. Wann ist der neue Termin? — **Donnerstag, 17. März, um 10 Uhr**
 
 ### Hörtext 2: Paketdienst
 > Guten Tag, hier ist der Paketdienst Express. Wir haben heute versucht, Ihr Paket zu liefern, aber leider waren Sie nicht zu Hause. Das Paket liegt jetzt bei Ihrem Nachbarn in der Wohnung 4B. Falls Sie Fragen haben, rufen Sie uns an: 0800-1234567.
 
 **Fragen:**
-1. Warum konnte das Paket nicht geliefert werden? → **Niemand war zu Hause**
-2. Wo ist das Paket jetzt? → **Beim Nachbarn in Wohnung 4B**
+1. Warum konnte das Paket nicht geliefert werden? — **Niemand war zu Hause**
+2. Wo ist das Paket jetzt? — **Beim Nachbarn in Wohnung 4B**
 
 ---
 
@@ -41,17 +52,17 @@ H�rübungen zur Vorbereitung auf das Goethe-Zertifikat A2.
 > Liebe Kunden, willkommen bei Kaufland! Heute haben wir besondere Angebote für Sie: Frische Erdbeeren aus Spanien, 500 Gramm nur 1,99 Euro. Außerdem alle Joghurts 20 Prozent günstiger. Die Angebote gelten bis Samstag. Wir wünschen Ihnen einen guten Einkauf!
 
 **Richtig oder Falsch?**
-1. Die Erdbeeren kosten 1,99 Euro pro Kilo. → **Falsch** (500 Gramm)
-2. Joghurts sind diese Woche billiger. → **Richtig**
-3. Die Angebote gelten nur heute. → **Falsch** (bis Samstag)
+1. Die Erdbeeren kosten 1,99 Euro pro Kilo. — **Falsch** (500 Gramm)
+2. Joghurts sind diese Woche billiger. — **Richtig**
+3. Die Angebote gelten nur heute. — **Falsch** (bis Samstag)
 
 ### Hörtext 4: Bahnhof
 > Sehr geehrte Fahrgäste, wegen Bauarbeiten auf der Strecke zwischen Köln und Bonn fallen heute alle Züge zwischen 22 Uhr und 5 Uhr aus. Es gibt einen Schienenersatzverkehr mit Bussen. Die Busse fahren alle 30 Minuten ab Haupteingang. Wir bitten um Ihr Verständnis.
 
 **Fragen:**
-1. Warum fallen Züge aus? → **Wegen Bauarbeiten**
-2. Was gibt es als Alternative? → **Busse (Schienenersatzverkehr)**
-3. Wie oft fahren die Busse? → **Alle 30 Minuten**
+1. Warum fallen Züge aus? — **Wegen Bauarbeiten**
+2. Was gibt es als Alternative? — **Busse (Schienenersatzverkehr)**
+3. Wie oft fahren die Busse? — **Alle 30 Minuten**
 
 ---
 
@@ -71,11 +82,11 @@ H�rübungen zur Vorbereitung auf das Goethe-Zertifikat A2.
 > — Das passt. Bis dann!
 
 **Fragen:**
-1. Wie viele Zimmer hat die Wohnung? → **2 Zimmer**
-2. Hat sie eine Küche? → **Ja, eine Einbauküche**
-3. In welchem Stock ist die Wohnung? → **Im 3. Stock**
-4. Wie viel kostet sie insgesamt? → **670 Euro (520 + 150)**
-5. Wann ist die Besichtigung? → **Mittwoch um 16 Uhr**
+1. Wie viele Zimmer hat die Wohnung? — **2 Zimmer**
+2. Hat sie eine Küche? — **Ja, eine Einbauküche**
+3. In welchem Stock ist die Wohnung? — **Im 3. Stock**
+4. Wie viel kostet sie insgesamt? — **670 Euro (520 + 150)**
+5. Wann ist die Besichtigung? — **Mittwoch um 16 Uhr**
 
 ---
 
@@ -90,9 +101,9 @@ H�rübungen zur Vorbereitung auf das Goethe-Zertifikat A2.
 > **Frau Chen:** Nein, ich bin Mitglied in einem Wanderverein. Das ist toll, weil man neue Leute kennenlernt und die Natur gemeinsam genießen kann.
 
 **Fragen:**
-1. Wie oft geht Frau Chen schwimmen? → **Zweimal pro Woche**
-2. Seit wann wandert sie? → **Seit zwei Jahren**
-3. Warum gefällt ihr der Wanderverein? → **Man lernt neue Leute kennen und genießt die Natur**
+1. Wie oft geht Frau Chen schwimmen? — **Zweimal pro Woche**
+2. Seit wann wandert sie? — **Seit zwei Jahren**
+3. Warum gefällt ihr der Wanderverein? — **Man lernt neue Leute kennen und genießt die Natur**
 
 ---
 
