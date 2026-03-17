@@ -1,14 +1,15 @@
 # 🇩🇪 Deutsch Lernen — Goethe-Zertifikat Vorbereitung
+# 🇩🇪 Learn German — Goethe Certificate Preparation
 
 Umfassende Lernmaterialien für alle CEFR-Niveaustufen (A1–C2) zur Vorbereitung auf die Goethe-Prüfungen.
 
-> 📄 PDF-Version dieses Repos: [deutsch_a1_a2_b1_b2_c1_c2_pdf](https://github.com/abdullahbutt/deutsch_a1_a2_b1_b2_c1_c2_pdf)
+*Comprehensive learning materials for all CEFR levels (A1–C2) to prepare for the Goethe exams.*
 
 ---
 
 ## 📚 Niveaustufen / Levels
 
-| Stufe | Prüfung | Beschreibung | Sprache |
+| Stufe | Prüfung | Beschreibung / Description | Sprache / Language |
 |-------|---------|-------------|---------|
 | [A1](./A1/) | Goethe-Zertifikat A1: Start Deutsch 1 | Anfänger / Beginner | 🇩🇪 + 🇬🇧 Bilingual |
 | [A2](./A2/) | Goethe-Zertifikat A2 | Grundlegende Kenntnisse / Elementary | 🇩🇪 + 🇬🇧 Bilingual |
@@ -74,7 +75,7 @@ Jeder Ordner enthält **9 Dateien** / Each folder contains **9 files**:
 | C2 | ~240 + Idiome | Literarisch, Akademisch, Rhetorik + 29 Redewendungen + 16 Sprichwörter |
 
 ### Grammatik / Grammar
-| Stufe | Schwerpunkte / Focus Areas |
+| Stufe / Level | Schwerpunkte / Focus Areas |
 |-------|---------------------------|
 | A1 | Artikel, Präsens, Perfekt, Modalverben, Satzstruktur, Imperativ, Präpositionen |
 | A2 | Präteritum, Nebensätze (weil, dass, wenn, obwohl), Komparativ/Superlativ, Reflexivverben, Dativverben, Konjunktiv II (Höflichkeit) |
@@ -93,12 +94,13 @@ Jeder Ordner enthält **9 Dateien** / Each folder contains **9 files**:
 
 ## 🌍 Bilingual Approach / Zweisprachiger Ansatz
 
-This repository uses a **level-appropriate bilingual approach**:
+Dieses Repo verwendet einen **stufengerechten zweisprachigen Ansatz**.
+*This repository uses a **level-appropriate bilingual approach**.*
 
-| Levels | Language | Reason |
+| Stufen / Levels | Sprache / Language | Grund / Reason |
 |--------|----------|--------|
-| **A1, A2, B1** | German + English | Beginners need English to understand instructions, grammar explanations, strategies, and exam tips |
-| **B2, C1, C2** | German only (English in vocab tables) | Advanced learners benefit from immersion — struggling with German text IS the practice |
+| **A1, A2, B1** | Deutsch + Englisch / German + English | Anfänger brauchen Englisch, um Erklärungen und Tipps zu verstehen / Beginners need English to understand explanations and tips |
+| **B2, C1, C2** | Nur Deutsch (Englisch nur in Vokabeltabellen) / German only (English only in vocab tables) | Fortgeschrittene profitieren von Immersion / Advanced learners benefit from immersion |
 
 ---
 
@@ -148,6 +150,7 @@ deutsch_a1_a2_b1_b2_c1_c2/
 ```
 
 **55 Dateien · 6 Niveaustufen · Alle 4 Prüfungsmodule · 2,300+ Vokabeln**
+*55 files · 6 levels · All 4 exam modules · 2,300+ vocabulary entries*
 
 ---
 
