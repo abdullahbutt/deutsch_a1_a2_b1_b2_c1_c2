@@ -1,218 +1,122 @@
 # A1 Sprechen / Speaking
 
 Übungen zur Vorbereitung auf den mündlichen Teil des Goethe-Zertifikats A1.
+*Exercises to prepare for the speaking part of the Goethe-Zertifikat A1.*
 
 ---
 
 ## Prüfungsformat / Exam Format
 
-| Teil | Aufgabe | Dauer |
+| Teil / Part | Aufgabe / Task | Dauer / Duration |
 |------|---------|-------|
-| 1 | Sich vorstellen | ca. 3 Min |
-| 2 | Fragen stellen und beantworten (Wortkarten) | ca. 6 Min |
-| 3 | Bitten formulieren und darauf reagieren (Bildkarten) | ca. 6 Min |
-| **Gesamt** | | **ca. 15 Min** |
+| 1 | Sich vorstellen / Introduce yourself | ca. 3 Min |
+| 2 | Fragen stellen und beantworten (Wortkarten) / Ask and answer questions (word cards) | ca. 6 Min |
+| 3 | Bitten formulieren und reagieren (Bildkarten) / Make requests and respond (picture cards) | ca. 6 Min |
 
-**Gruppenprüfung: 2–4 Teilnehmer**
+**Gruppenprüfung: 2–4 Teilnehmer / Group exam: 2–4 participants, ca. 15 Minuten / minutes**
 
 ---
 
-## Teil 1: Sich vorstellen / Introducing Yourself
+## Teil 1: Sich vorstellen / Introduce Yourself
 
 ### Was Sie sagen müssen / What you need to say:
 
-**Name:**
-- Ich heiße ... / Mein Name ist ...
-- Mein Vorname ist ... und mein Nachname ist ...
+**Name:** Ich heiße ... / Mein Name ist ... *(My name is ...)*
 
-**Herkunft:**
-- Ich komme aus ...
-- Ich bin aus ... (Land/Stadt)
+**Herkunft / Origin:** Ich komme aus ... *(I come from ...)*
 
-**Wohnort:**
-- Ich wohne in ...
-- Ich lebe in ... seit ... (Monaten/Jahren)
+**Wohnort / Residence:** Ich wohne in ... *(I live in ...)*
 
-**Alter:**
-- Ich bin ... Jahre alt.
+**Alter / Age:** Ich bin ... Jahre alt. *(I am ... years old.)*
 
-**Sprachen:**
-- Ich spreche ... (Deutsch, Englisch, Hindi, ...)
-- Meine Muttersprache ist ...
-- Ich lerne seit ... Monaten/Jahren Deutsch.
+**Sprachen / Languages:** Ich spreche ... *(I speak ...)* / Meine Muttersprache ist ... *(My native language is ...)*
 
-**Beruf/Studium:**
-- Ich bin ... (Ingenieur, Studentin, Lehrerin, ...)
-- Ich arbeite als ... bei ...
-- Ich studiere ... an der Universität ...
+**Beruf / Profession:** Ich bin ... (Ingenieur, Studentin, Lehrerin) *(I am ... engineer, student, teacher)* / Ich arbeite als ... bei ... *(I work as ... at ...)*
 
-**Familie:**
-- Ich bin verheiratet / ledig / geschieden.
-- Ich habe ... Kinder / Geschwister.
-- Meine Familie wohnt in ...
+**Familie / Family:** Ich bin verheiratet / ledig. *(I am married / single.)* / Ich habe ... Kinder. *(I have ... children.)*
 
-**Hobbys:**
-- Meine Hobbys sind ...
-- In meiner Freizeit ... (lese ich, spiele ich Fußball, ...)
-- Ich ... gern. (koche, reise, schwimme, ...)
+**Hobbys:** In meiner Freizeit ... *(In my free time ...)* / Ich ... gern. *(I like to ...)*
 
 ### Beispiel-Vorstellung / Example Introduction:
 
-> Hallo! Mein Name ist Priya Sharma. Ich komme aus Indien, aus Mumbai. Jetzt wohne ich in Berlin. Ich bin 28 Jahre alt. Ich bin Ingenieurin von Beruf und arbeite bei einer IT-Firma. Ich spreche Hindi, Englisch und ein bisschen Deutsch. Ich lerne seit sechs Monaten Deutsch. Ich bin verheiratet und habe ein Kind. In meiner Freizeit lese ich gern und koche ich gern. Ich mag auch Yoga.
+> Hallo! Mein Name ist Priya Sharma. Ich komme aus Indien, aus Mumbai. Jetzt wohne ich in Berlin. Ich bin 28 Jahre alt. Ich bin Ingenieurin von Beruf und arbeite bei einer IT-Firma. Ich spreche Hindi, Englisch und ein bisschen Deutsch. Ich bin verheiratet und habe ein Kind. In meiner Freizeit lese ich gern und koche ich gern.
 
-### Übung: Schreiben Sie Ihre eigene Vorstellung!
-
-| Thema | Ihre Antwort |
-|-------|-------------|
-| Name | Ich heiße ... |
-| Herkunft | Ich komme aus ... |
-| Wohnort | Ich wohne in ... |
-| Alter | Ich bin ... Jahre alt. |
-| Sprachen | Ich spreche ... |
-| Beruf | Ich bin ... / Ich arbeite als ... |
-| Familie | Ich bin ... / Ich habe ... |
-| Hobbys | In meiner Freizeit ... |
+*Hello! My name is Priya Sharma. I come from India, from Mumbai. Now I live in Berlin. I am 28 years old. I am an engineer and work at an IT company. I speak Hindi, English, and a little German. I am married and have one child. In my free time I like to read and cook.*
 
 ---
 
 ## Teil 2: Fragen und Antworten / Questions and Answers
 
 In diesem Teil ziehen Sie Wortkarten und stellen Fragen dazu. Die anderen Teilnehmer antworten.
+*In this part you draw word cards and ask questions about them. The other participants answer.*
 
-### Übungskarten mit Antworten:
+### Übungskarten / Practice Cards:
 
-**Karte: ESSEN**
-- Was essen Sie gern? → Ich esse gern Pizza/Reis/Gemüse.
-- Was ist Ihr Lieblingsessen? → Mein Lieblingsessen ist ...
-- Kochen Sie gern? → Ja, ich koche gern. / Nein, ich koche nicht gern.
-- Was essen Sie zum Frühstück? → Zum Frühstück esse ich Brot und trinke Kaffee.
+**ESSEN / FOOD**
+- Was essen Sie gern? *(What do you like to eat?)* → Ich esse gern Pizza.
+- Kochen Sie gern? *(Do you like cooking?)* → Ja, ich koche gern. / Nein, nicht so gern.
+- Was essen Sie zum Frühstück? *(What do you eat for breakfast?)* → Zum Frühstück esse ich Brot.
 
-**Karte: WOHNEN**
-- Wo wohnen Sie? → Ich wohne in ...
-- Wie ist Ihre Wohnung? → Meine Wohnung ist groß/klein/schön.
-- Wie viele Zimmer hat Ihre Wohnung? → Meine Wohnung hat ... Zimmer.
-- Wohnen Sie allein? → Ja, ich wohne allein. / Nein, ich wohne mit ...
+**WOHNEN / LIVING**
+- Wo wohnen Sie? *(Where do you live?)* → Ich wohne in Berlin.
+- Wie ist Ihre Wohnung? *(What is your apartment like?)* → Meine Wohnung ist groß/klein/schön.
+- Wohnen Sie allein? *(Do you live alone?)* → Ja/Nein, ich wohne mit meiner Familie.
 
-**Karte: FREIZEIT**
-- Was machen Sie in Ihrer Freizeit? → In meiner Freizeit ... ich gern.
-- Treiben Sie Sport? → Ja, ich spiele Fußball/Tennis. / Nein, ich treibe keinen Sport.
-- Gehen Sie gern ins Kino? → Ja, sehr gern! / Nein, nicht so gern.
+**FREIZEIT / FREE TIME**
+- Was machen Sie in Ihrer Freizeit? *(What do you do in your free time?)* → Ich lese gern / spiele Fußball.
+- Treiben Sie Sport? *(Do you do sports?)* → Ja, ich schwimme gern. / Nein.
 
-**Karte: ARBEIT**
-- Was sind Sie von Beruf? → Ich bin ... von Beruf.
-- Wo arbeiten Sie? → Ich arbeite bei/in ...
-- Arbeiten Sie gern? → Ja, ich arbeite gern. Meine Arbeit ist interessant.
-- Wie lange arbeiten Sie? → Ich arbeite von ... bis ... Uhr.
+**ARBEIT / WORK**
+- Was sind Sie von Beruf? *(What is your profession?)* → Ich bin Lehrer von Beruf.
+- Wo arbeiten Sie? *(Where do you work?)* → Ich arbeite bei/in ...
+- Wie lange arbeiten Sie? *(How long do you work?)* → Ich arbeite von 9 bis 17 Uhr.
 
-**Karte: FAMILIE**
-- Haben Sie Geschwister? → Ja, ich habe ... / Nein, ich bin Einzelkind.
-- Sind Sie verheiratet? → Ja/Nein.
-- Haben Sie Kinder? → Ja, ich habe ... Kinder. / Nein, ich habe keine Kinder.
-- Wo wohnt Ihre Familie? → Meine Familie wohnt in ...
-
-**Karte: REISEN**
-- Reisen Sie gern? → Ja, ich reise sehr gern!
-- Wohin möchten Sie reisen? → Ich möchte nach ... reisen.
-- Wie reisen Sie? → Ich fahre mit dem Zug / fliege / fahre mit dem Auto.
-- Wo waren Sie zuletzt im Urlaub? → Ich war in ...
-
-**Karte: SPRACHE**
-- Welche Sprachen sprechen Sie? → Ich spreche ...
-- Warum lernen Sie Deutsch? → Ich lerne Deutsch, weil ...
-- Wie lernen Sie Deutsch? → Ich besuche einen Kurs / lerne mit einem Buch.
-- Ist Deutsch schwer? → Ja, ein bisschen. / Es geht.
-
-**Karte: EINKAUFEN**
-- Wo kaufen Sie ein? → Ich kaufe im Supermarkt / auf dem Markt ein.
-- Was kaufen Sie oft? → Ich kaufe oft Lebensmittel/Kleidung.
-- Gehen Sie gern einkaufen? → Ja/Nein.
-
-**Karte: WETTER**
-- Wie ist das Wetter heute? → Heute ist es sonnig/bewölkt/kalt.
-- Welche Jahreszeit mögen Sie? → Ich mag den Sommer/Frühling am liebsten.
-- Wie ist das Wetter in Ihrem Heimatland? → In ... ist es meistens warm/heiß.
-
-**Karte: TAGESABLAUF**
-- Wann stehen Sie auf? → Ich stehe um ... Uhr auf.
-- Was machen Sie am Morgen? → Am Morgen frühstücke ich und ...
-- Wann gehen Sie ins Bett? → Ich gehe um ... Uhr ins Bett.
+**REISEN / TRAVEL**
+- Reisen Sie gern? *(Do you like traveling?)* → Ja, ich reise sehr gern!
+- Wohin möchten Sie reisen? *(Where would you like to travel?)* → Ich möchte nach ... reisen.
 
 ---
 
 ## Teil 3: Bitten formulieren / Making Requests
 
-In diesem Teil sehen Sie Bildkarten mit Alltagssituationen und müssen Bitten formulieren.
+In diesem Teil sehen Sie Bildkarten und müssen Bitten formulieren.
+*In this part you see picture cards and need to make requests.*
 
 ### Nützliche Redemittel / Useful Phrases:
 
 **Bitten / Requests:**
-- Können Sie mir bitte helfen?
-- Kann ich bitte ...?
-- Ich hätte gern ...
-- Geben Sie mir bitte ...
-- Darf ich ...?
-- Könnten Sie bitte ...?
+- Können Sie mir bitte helfen? *(Can you please help me?)*
+- Kann ich bitte ...? *(Can I please ...?)*
+- Ich hätte gern ... *(I would like ...)*
+- Darf ich ...? *(May I ...?)*
 
 **Reagieren / Responding:**
-- Ja, natürlich!
-- Ja, gerne!
-- Ja, kein Problem!
-- Tut mir leid, das geht leider nicht.
-- Leider nicht. Aber ...
+- Ja, natürlich! *(Yes, of course!)*
+- Ja, gerne! *(Yes, gladly!)*
+- Tut mir leid, das geht leider nicht. *(Sorry, that's not possible.)*
 
 ### Übungssituationen / Practice Situations:
 
-**Situation 1: Im Deutschkurs**
-- Bild: Fenster → "Können Sie bitte das Fenster öffnen?"
-- Bild: Kugelschreiber → "Kann ich bitte einen Kugelschreiber haben?"
-- Bild: Wort an der Tafel → "Können Sie das bitte wiederholen?"
-- Bild: Wörterbuch → "Darf ich Ihr Wörterbuch benutzen?"
+**Im Deutschkurs / In German class:**
+- Können Sie bitte das Fenster öffnen? *(Can you please open the window?)*
+- Kann ich bitte einen Kugelschreiber haben? *(Can I please have a pen?)*
+- Können Sie das bitte wiederholen? *(Can you please repeat that?)*
 
-**Situation 2: Im Restaurant**
-- Bild: Speisekarte → "Können wir bitte die Speisekarte haben?"
-- Bild: Glas Wasser → "Kann ich bitte ein Glas Wasser bekommen?"
-- Bild: Rechnung → "Die Rechnung, bitte!"
-- Bild: Salz → "Können Sie mir bitte das Salz geben?"
-
-**Situation 3: Im Büro / Bei der Arbeit**
-- Bild: Kopierer → "Kann ich den Kopierer benutzen?"
-- Bild: Telefon → "Darf ich kurz telefonieren?"
-- Bild: Tür → "Können Sie bitte die Tür schließen?"
-
-**Situation 4: Beim Arzt**
-- Bild: Termin → "Ich möchte bitte einen Termin machen."
-- Bild: Rezept → "Kann ich bitte ein Rezept bekommen?"
-
-**Situation 5: Auf der Straße**
-- Bild: Stadtplan → "Können Sie mir den Weg zeigen?"
-- Bild: Uhr → "Entschuldigung, wie spät ist es?"
-- Bild: Foto → "Können Sie bitte ein Foto von mir machen?"
+**Im Restaurant:**
+- Können wir bitte die Speisekarte haben? *(Can we please have the menu?)*
+- Kann ich bitte ein Glas Wasser bekommen? *(Can I please get a glass of water?)*
+- Die Rechnung, bitte! *(The bill, please!)*
 
 ---
 
 ## Allgemeine Sprechtipps / General Speaking Tips
 
-1. **Sprechen Sie langsam und deutlich** — Speak slowly and clearly
-2. **Kurze Sätze sind OK** — Short sentences are perfectly fine at A1
-3. **Keine Panik bei Fehlern** — Don't panic about mistakes
-4. **Blickkontakt halten** — Maintain eye contact
-5. **Wenn Sie etwas nicht verstehen:**
-   - "Entschuldigung, können Sie das bitte wiederholen?"
-   - "Wie bitte?"
-   - "Können Sie bitte langsam sprechen?"
-   - "Was bedeutet ...?"
-6. **Wenn Sie ein Wort nicht kennen:**
-   - Erklären Sie es anders (paraphrase)
-   - "Ich meine ..." (I mean ...)
-   - Verwenden Sie Gesten (use gestures)
-
----
-
-## Bewertungskriterien / Assessment Criteria
-
-| Kriterium | Beschreibung |
-|-----------|-------------|
-| Erfüllung | Did you complete the task? |
-| Wortschatz | Appropriate vocabulary used? |
-| Korrektheit | Grammar and pronunciation acceptable? |
-| Aussprache | Clear pronunciation? |
+1. **Sprechen Sie langsam und deutlich.** *Speak slowly and clearly.*
+2. **Kurze Sätze sind OK.** *Short sentences are perfectly fine at A1.*
+3. **Keine Panik bei Fehlern.** *Don't panic about mistakes.*
+4. **Blickkontakt halten.** *Maintain eye contact.*
+5. **Wenn Sie etwas nicht verstehen:** *If you don't understand something:*
+   - "Entschuldigung, können Sie das bitte wiederholen?" *(Excuse me, can you please repeat that?)*
+   - "Wie bitte?" *(Pardon?)*
+   - "Können Sie bitte langsam sprechen?" *(Can you please speak slowly?)*
+   - "Was bedeutet ...?" *(What does ... mean?)*

@@ -4,32 +4,34 @@
 
 Das Goethe-Zertifikat A2 bestätigt elementare Deutschkenntnisse. Sie können sich in Alltagssituationen verständigen und einfache Texte verstehen und schreiben.
 
-**Empfohlene Lernzeit**: 200–350 Unterrichtsstunden (kumulativ)
+*The Goethe-Zertifikat A2 confirms elementary German skills. You can communicate in everyday situations and understand and write simple texts.*
+
+**Empfohlene Lernzeit / Recommended study time**: 200–350 Unterrichtsstunden / teaching hours (kumulativ / cumulative)
 
 ## Prüfungsstruktur / Exam Structure
 
-| Modul | Dauer | Punkte | Bestehen |
+| Modul / Module | Dauer / Duration | Punkte / Points | Bestehen / Pass |
 |-------|-------|--------|----------|
-| Lesen | 30 min | 45 | min. 27 |
-| Hören | 30 min | 45 | min. 27 |
-| Schreiben | 30 min | 45 | min. 27 |
-| Sprechen | 15 min | 45 | min. 27 |
-| **Gesamt** | **105 min** | **180** | **min. 108** |
+| Lesen / Reading | 30 min | 45 | min. 27 |
+| Hören / Listening | 30 min | 45 | min. 27 |
+| Schreiben / Writing | 30 min | 45 | min. 27 |
+| Sprechen / Speaking | 15 min | 45 | min. 27 |
+| **Gesamt / Total** | **105 min** | **180** | **min. 108** |
 
 ## Themen / Topics
-- Persönliche Informationen und Familie
-- Einkaufen, Essen und Trinken
-- Wohnen und Nachbarschaft
-- Gesundheit und Körper
-- Arbeit und Beruf
-- Bildung und Ausbildung
-- Freizeit und Unterhaltung
-- Reisen und Verkehr
-- Natur und Wetter
-- Medien und Kommunikation
+- Persönliche Informationen und Familie / Personal information and family
+- Einkaufen, Essen und Trinken / Shopping, food and drink
+- Wohnen und Nachbarschaft / Housing and neighborhood
+- Gesundheit und Körper / Health and body
+- Arbeit und Beruf / Work and career
+- Freizeit und Unterhaltung / Leisure and entertainment
+- Reisen und Verkehr / Travel and transport
+- Natur und Wetter / Nature and weather
+- Medien und Kommunikation / Media and communication
+- Behörden und Dokumente / Authorities and documents
 
 ## Dateien / Files
-1. [Wortschatz](./01_Wortschatz.md) — Vocabulary (ca. 1,300 Wörter)
+1. [Wortschatz](./01_Wortschatz.md) — Vocabulary (ca. 650 neue Wörter / new words)
 2. [Grammatik](./02_Grammatik.md) — Grammar rules and exercises
 3. [Sätze](./03_Saetze.md) — Example sentences A–Z
 4. [Lesen](./04_Lesen.md) — Reading exercises

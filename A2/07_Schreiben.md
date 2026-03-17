@@ -1,101 +1,77 @@
 # A2 Schreiben / Writing
 
 Schreibübungen zur Vorbereitung auf das Goethe-Zertifikat A2.
+*Writing exercises to prepare for the Goethe-Zertifikat A2.*
 
 ---
 
-## Prüfungsformat
+## Prüfungsformat / Exam Format
 
-| Teil | Aufgabe | Punkte |
+| Teil / Part | Aufgabe / Task | Punkte / Points |
 |------|---------|--------|
-| 1 | SMS oder kurze Nachricht (ca. 30–40 Wörter) | 15 |
-| 2 | Persönliche oder halbformelle Mitteilung (ca. 50–60 Wörter) | 30 |
+| 1 | SMS oder kurze Nachricht (ca. 30–40 Wörter) / SMS or short message | 15 |
+| 2 | Persönliche oder halbformelle Mitteilung (ca. 50–60 Wörter) / Personal or semi-formal message | 30 |
 
-**Dauer: 30 Minuten**
+**Dauer / Duration: 30 Minuten / minutes**
 
 ---
 
-## Teil 1: Kurze Nachrichten (SMS / WhatsApp)
+## Teil 1: Kurze Nachrichten / Short Messages
 
-### Übung 1: Treffen verschieben
-**Aufgabe:** Sie wollten sich heute mit Ihrer Freundin Lena treffen. Aber Sie können nicht. Schreiben Sie: Entschuldigung, Grund, neuer Vorschlag.
+### Übung 1: Treffen verschieben / Postpone Meeting
+**Aufgabe / Task:** Sie wollten sich heute mit Lena treffen. Sie können nicht. *You wanted to meet Lena today. You can't.*
+Schreiben Sie / Write: Entschuldigung *(apology)*, Grund *(reason)*, neuer Vorschlag *(new suggestion)*.
 
+**Musterantwort / Sample answer:**
 > Liebe Lena,
-> es tut mir leid, aber ich kann heute leider nicht kommen. Ich muss länger arbeiten als geplant. Können wir uns statt heute morgen Abend treffen? Passt dir 18 Uhr im Café am Marktplatz?
+> es tut mir leid, aber ich kann heute leider nicht kommen. Ich muss länger arbeiten. Können wir uns statt heute morgen Abend treffen? Passt dir 18 Uhr im Café am Marktplatz?
 > LG, [Name]
 
-### Übung 2: Geburtstag
-**Aufgabe:** Ihre Kollegin hat morgen Geburtstag. Gratulieren Sie und laden Sie sie zum Mittagessen ein.
-
-> Liebe Claudia,
-> alles Gute zum Geburtstag morgen! Hast du Lust, zusammen Mittagessen zu gehen? Ich kenne ein tolles italienisches Restaurant in der Nähe. Mein Einladen!
-> Herzliche Grüße, [Name]
-
-### Übung 3: Verspätung
-**Aufgabe:** Sie kommen zu spät zum Unterricht. Schreiben Sie Ihrem Lehrer.
-
-> Lieber Herr Müller,
-> ich komme leider 30 Minuten zu spät zum Kurs, weil mein Bus Verspätung hat. Es tut mir sehr leid. Ich bin so schnell wie möglich da.
-> Viele Grüße, [Name]
+*Dear Lena, I'm sorry, but unfortunately I can't come today. I have to work longer. Can we meet tomorrow evening instead of today? Does 6 PM at the café on the market square work for you? Best, [Name]*
 
 ---
 
-## Teil 2: Persönliche / halbformelle Mitteilungen
+## Teil 2: Persönliche Mitteilungen / Personal Messages
 
-### Übung 4: Brief an einen Freund
-**Aufgabe:** Ihr Freund Marco kommt nächste Woche zu Besuch. Schreiben Sie ihm: Wann abholen? Was planen? Was mitbringen?
+### Übung 4: Brief an einen Freund / Letter to a Friend
+**Aufgabe / Task:** Ihr Freund Marco kommt nächste Woche zu Besuch. *Your friend Marco is visiting next week.*
+Schreiben Sie / Write: Wann abholen? *(When to pick up?)* Was planen? *(What to plan?)* Was mitbringen? *(What to bring?)*
 
+**Musterantwort / Sample answer:**
 > Lieber Marco,
-> ich freue mich sehr, dass du nächste Woche kommst! Sag mir bitte, wann genau dein Zug ankommt, dann hole ich dich am Bahnhof ab.
-> Ich habe schon ein paar Ideen, was wir machen können: Am Samstag können wir die Altstadt besichtigen und abends in ein nettes Restaurant gehen. Am Sonntag möchte ich dir den Park zeigen.
-> Bring bitte warme Kleidung mit, weil es hier noch ziemlich kalt ist.
-> Bis bald!
-> Viele Grüße, [Name]
+> ich freue mich sehr, dass du nächste Woche kommst! Sag mir bitte, wann dein Zug ankommt, dann hole ich dich am Bahnhof ab.
+> Am Samstag können wir die Altstadt besichtigen und abends in ein nettes Restaurant gehen. Bring bitte warme Kleidung mit, weil es hier noch ziemlich kalt ist.
+> Bis bald! Viele Grüße, [Name]
 
-### Übung 5: Beschwerde schreiben
-**Aufgabe:** Sie haben im Internet einen Rucksack bestellt. Er hat einen Fehler. Schreiben Sie an den Kundenservice.
-
-> Sehr geehrte Damen und Herren,
-> am 10. März habe ich bei Ihnen einen schwarzen Rucksack bestellt (Bestellnummer: 45678). Leider hat der Rucksack einen kaputten Reißverschluss. Ich möchte den Rucksack umtauschen oder mein Geld zurückbekommen. Bitte teilen Sie mir mit, wie ich den Rucksack zurückschicken kann.
-> Mit freundlichen Grüßen, [Name]
-
-### Übung 6: Antwort auf eine Anzeige
-**Aufgabe:** Sie haben eine Anzeige für einen Tanzkurs gelesen. Schreiben Sie und fragen Sie: Kosten, Anfänger, Termine.
-
-> Sehr geehrte Damen und Herren,
-> ich habe Ihre Anzeige für den Tanzkurs gelesen und interessiere mich sehr dafür. Ich hätte einige Fragen: Wie viel kostet der Kurs? Ist der Kurs auch für Anfänger geeignet? Und an welchen Tagen findet er statt?
-> Ich freue mich auf Ihre Antwort.
-> Mit freundlichen Grüßen, [Name]
+*Dear Marco, I'm very happy you're coming next week! Please tell me when your train arrives, then I'll pick you up at the station. On Saturday we can visit the old town and go to a nice restaurant in the evening. Please bring warm clothes, because it's still quite cold here. See you soon! Best, [Name]*
 
 ---
 
-## Wichtige Redemittel
+## Wichtige Redemittel / Important Phrases
 
-### Informelle Nachrichten
-| Funktion | Redemittel |
-|----------|-----------|
-| Begrüßung | Liebe/r ..., Hallo ..., Hi ... |
-| Dank | Danke für deine Nachricht / Einladung |
-| Entschuldigung | Es tut mir leid / Entschuldigung / Sorry |
-| Vorschlag | Hast du Lust ...? / Wollen wir ...? / Wie wäre es mit ...? |
-| Abschluss | Liebe/Viele Grüße, Bis bald, LG |
+### Informelle Nachrichten / Informal Messages
+| Deutsch | Englisch |
+|---------|----------|
+| Liebe/r ... | Dear ... |
+| Danke für deine Nachricht! | Thanks for your message! |
+| Es tut mir leid. | I'm sorry. |
+| Hast du Lust ...? | Do you feel like ...? |
+| Viele/Liebe Grüße | Best regards |
 
-### Formelle Nachrichten
-| Funktion | Redemittel |
-|----------|-----------|
-| Begrüßung | Sehr geehrte Damen und Herren / Sehr geehrte/r Frau/Herr ... |
-| Grund | Ich schreibe Ihnen, weil ... |
-| Bitte | Könnten Sie mir bitte ...? / Ich bitte Sie ... |
-| Beschwerde | Leider muss ich mich beschweren / Ich bin nicht zufrieden mit ... |
-| Abschluss | Mit freundlichen Grüßen |
+### Formelle Nachrichten / Formal Messages
+| Deutsch | Englisch |
+|---------|----------|
+| Sehr geehrte Damen und Herren | Dear Sir or Madam |
+| Ich schreibe Ihnen, weil ... | I'm writing to you because ... |
+| Könnten Sie bitte ...? | Could you please ...? |
+| Mit freundlichen Grüßen | Sincerely |
 
 ---
 
-## Tipps für die Prüfung
+## Tipps / Tips
 
-1. **Alle Punkte bearbeiten** — Jeder Inhaltspunkt gibt Punkte!
-2. **Wörter zählen** — Schreiben Sie nicht zu wenig und nicht zu viel
-3. **Anrede + Gruß** — Immer mit Anrede beginnen und mit Gruß enden
-4. **du/Sie richtig** — Informell = du, Formell = Sie
-5. **Korrektur lesen** — Überprüfen Sie Grammatik und Rechtschreibung
-6. **Klar schreiben** — Deutliche Handschrift (wenn handschriftlich)
+1. **Alle Punkte bearbeiten!** *Address ALL points!* — Jeder Inhaltspunkt gibt Punkte. *Each content point earns marks.*
+2. **Wörter zählen.** *Count words.* — Nicht zu wenig, nicht zu viel. *Not too few, not too many.*
+3. **Anrede + Gruß.** *Greeting + closing.* — Immer dabei! *Always include them!*
+4. **du/Sie richtig.** *du/Sie correctly.* — Informell = du, Formell = Sie.
+5. **Korrektur lesen.** *Proofread.* — Am Ende nochmal lesen! *Read again at the end!*

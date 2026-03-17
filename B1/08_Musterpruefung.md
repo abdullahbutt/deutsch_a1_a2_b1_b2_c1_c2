@@ -1,94 +1,87 @@
 # B1 Musterprüfung / Sample Exam
 
-Goethe-Zertifikat B1 — Modelltest (Kurzversion)
+Goethe-Zertifikat B1 — Modelltest / Model Test (Kurzversion / Short version)
 
 ---
 
-## LESEN (65 Minuten, 100 Punkte)
+## LESEN / READING (65 Minuten / minutes, 100 Punkte / points)
 
-### Teil 1: Blog — Globalverstehen (6 Aufgaben)
-Lesen Sie den Text und ordnen Sie die Überschriften zu.
+### Teil 2: Zeitungsmeldung / Newspaper Report
 
-> **Mein erstes Jahr in Deutschland**
->
-> [Absatz 1] Vor einem Jahr bin ich von Brasilien nach Stuttgart gezogen. Mein Mann hatte dort eine Stelle als Ingenieur bekommen. Am Anfang war alles neu und aufregend, aber auch ein bisschen beängstigend.
->
-> [Absatz 2] Das Schwierigste war die Sprache. Obwohl ich in Brasilien einen Deutschkurs besucht hatte, verstand ich die Leute kaum. Sie sprachen so schnell! Aber nach drei Monaten wurde es besser.
->
-> [Absatz 3] Was mich am meisten überrascht hat, war die Pünktlichkeit. In Brasilien ist es normal, 15 Minuten zu spät zu kommen. Hier wird man schief angeschaut, wenn man auch nur 5 Minuten zu spät ist.
->
-> [Absatz 4] Inzwischen habe ich mich gut eingelebt. Ich habe Freunde gefunden, einen Job als Grafikdesignerin und fühle mich in Stuttgart zu Hause. Deutschland ist jetzt meine zweite Heimat.
+> **Elektroautos werden beliebter / Electric Cars Becoming More Popular**
+> Die Nachfrage nach Elektroautos ist um 30 Prozent gestiegen. Gründe: gestiegene Benzinpreise und wachsendes Umweltbewusstsein. Kritik: Ladeinfrastruktur nicht ausreichend, Anschaffungskosten zu hoch. Die Regierung plant bis 2030 eine Million Ladesäulen.
 
-Zuordnung: a) Kulturelle Unterschiede → **3**, b) Sprachliche Herausforderungen → **2**, c) Ankommen in einer neuen Welt → **1**, d) Angekommen und integriert → **4**
+**Fragen / Questions (Wählen Sie a, b oder c / Choose a, b, or c):**
 
-### Teil 2: Zeitungsmeldung (6 Aufgaben) — Wählen Sie a, b oder c.
+1. Warum steigt die Nachfrage? *(Why is demand increasing?)*
+   - c) **Benzin ist teurer und Menschen sind umweltbewusster / Gas is more expensive and people are more environmentally conscious** ✓
 
-> **Elektroautos werden beliebter**
-> Die Nachfrage nach Elektroautos in Deutschland ist im letzten Jahr um 30 Prozent gestiegen. Experten erklären dies mit den gestiegenen Benzinpreisen und dem wachsenden Umweltbewusstsein der Verbraucher. Allerdings gibt es auch Kritik: Die Ladeinfrastruktur sei noch nicht ausreichend ausgebaut, und die Anschaffungskosten seien immer noch deutlich höher als bei herkömmlichen Autos. Die Bundesregierung plant, bis 2030 eine Million Ladesäulen aufzustellen.
-
-1. Die Nachfrage nach E-Autos ist gestiegen, weil: **c) Benzin teurer geworden ist und Menschen umweltbewusster sind** ✓
-2. Ein Problem bei E-Autos ist: **a) Es gibt zu wenige Ladestationen** ✓
-3. Die Regierung möchte bis 2030: **b) Eine Million Ladesäulen aufstellen** ✓
+2. Ein Problem bei E-Autos: *(A problem with e-cars:)*
+   - a) **Zu wenige Ladestationen / Too few charging stations** ✓
 
 ---
 
-## HÖREN (40 Minuten, 100 Punkte)
+## HÖREN / LISTENING (40 Minuten / minutes, 100 Punkte / points)
 
-### Teil 1: Alltagsgespräch (1x hören)
+### Teil 1: Alltagsgespräch / Everyday Conversation (1x hören / listen)
 
-> A: Stell dir vor, ich habe mich für einen Marathonlauf angemeldet!
-> B: Einen Marathon? Das sind doch 42 Kilometer! Bist du verrückt?
-> A: Nein, ich trainiere schon seit einem halben Jahr dafür. Dreimal pro Woche laufe ich.
-> B: Und wann ist der Marathon?
-> A: Im Oktober. Ich habe also noch vier Monate Zeit.
+> A: Ich habe mich für einen Marathonlauf angemeldet!
+> B: Das sind 42 Kilometer! Bist du verrückt?
+> A: Ich trainiere seit einem halben Jahr, dreimal pro Woche. Der Marathon ist im Oktober.
 > B: Na, dann drücke ich dir die Daumen!
 
-Was ist richtig? → **b) A trainiert seit sechs Monaten für einen Marathon.** ✓
+Was ist richtig? / What is correct?
+→ **b) A trainiert seit sechs Monaten für einen Marathon.** *(A has been training for six months for a marathon.)* ✓
 
 ---
 
-## SCHREIBEN (60 Minuten, 100 Punkte)
+## SCHREIBEN / WRITING (60 Minuten / minutes, 100 Punkte / points)
 
-### Teil 1: Persönliche E-Mail (40 Punkte)
-Ihre Freundin hat geschrieben, dass sie darüber nachdenkt, ein Semester im Ausland zu studieren. Schreiben Sie ihr (ca. 80 Wörter):
-- Finden Sie die Idee gut?
-- Eigene Erfahrung oder Meinung
-- Was sollte sie beachten?
+### Teil 1: Persönliche E-Mail / Personal Email (40 Punkte / points)
+Ihre Freundin denkt über ein Auslandssemester nach. Schreiben Sie (ca. 80 Wörter):
+*Your friend is thinking about a semester abroad. Write (~80 words):*
+- Finden Sie die Idee gut? / Do you think it's a good idea?
+- Eigene Erfahrung / Own experience
+- Was sollte sie beachten? / What should she consider?
 
-### Teil 2: Diskussionsbeitrag (40 Punkte)
-Thema im Forum: "Sollten Supermärkte Lebensmittel, die bald ablaufen, kostenlos abgeben statt wegzuwerfen?"
-Schreiben Sie Ihre Meinung (ca. 80 Wörter).
+### Teil 2: Diskussionsbeitrag / Discussion Post (40 Punkte / points)
+Thema: "Sollten Supermärkte Lebensmittel kostenlos abgeben statt wegzuwerfen?"
+*Topic: "Should supermarkets give away food for free instead of throwing it away?"*
+Schreiben Sie Ihre Meinung (ca. 80 Wörter). *Write your opinion (~80 words).*
 
-### Teil 3: Formelle Nachricht (20 Punkte)
-Sie haben in einer Zeitung gelesen, dass in Ihrem Stadtviertel ein neuer Spielplatz gebaut werden soll. Schreiben Sie an das Stadtplanungsamt (ca. 40 Wörter):
-- Sie finden die Idee gut
-- Vorschlag: Wo sollte der Spielplatz sein?
-
----
-
-## SPRECHEN (15 Minuten, 100 Punkte)
-
-### Teil 1: Gemeinsam planen
-Ihre Firma hat einen neuen Mitarbeiter aus dem Ausland. Sie sollen zusammen einen "Willkommenstag" für ihn organisieren. Besprechen Sie: Programm, Essen, Geschenk, wer macht was?
-
-### Teil 2: Kurzvortrag
-Thema: **"Soll man Kinder zweisprachig erziehen?"**
-- Eigene Erfahrung
-- Situation im Heimatland
-- Vor- und Nachteile
-- Eigene Meinung
-
-### Teil 3: Feedback und Fragen
-Reagieren Sie auf den Vortrag Ihres Partners.
+### Teil 3: Formelle Nachricht / Formal Message (20 Punkte / points)
+Ein neuer Spielplatz soll gebaut werden. Schreiben Sie ans Stadtplanungsamt (ca. 40 Wörter):
+*A new playground is to be built. Write to the city planning office (~40 words):*
+- Sie finden die Idee gut / You think it's a good idea
+- Vorschlag: Wo? / Suggestion: Where?
 
 ---
 
-## Bewertung
+## SPRECHEN / SPEAKING (15 Minuten / minutes, 100 Punkte / points)
 
-| Modul | Maximum | Bestehen |
+### Teil 1: Gemeinsam planen / Plan Together
+Einen "Willkommenstag" für einen neuen Mitarbeiter aus dem Ausland organisieren.
+*Organize a "welcome day" for a new colleague from abroad.*
+Besprechen Sie / Discuss: Programm? Essen? Geschenk? Wer macht was?
+
+### Teil 2: Kurzvortrag / Short Presentation
+Thema / Topic: **"Soll man Kinder zweisprachig erziehen?" / "Should children be raised bilingually?"**
+- Eigene Erfahrung / Own experience
+- Situation im Heimatland / Situation in your home country
+- Vor- und Nachteile / Advantages and disadvantages
+- Eigene Meinung / Own opinion
+
+### Teil 3: Feedback und Fragen / Feedback and Questions
+Reagieren Sie auf den Vortrag Ihres Partners. *React to your partner's presentation.*
+
+---
+
+## Bewertung / Scoring
+
+| Modul / Module | Maximum | Bestehen / Pass |
 |-------|---------|----------|
-| Lesen | 100 | ≥ 60 |
-| Hören | 100 | ≥ 60 |
-| Schreiben | 100 | ≥ 60 |
-| Sprechen | 100 | ≥ 60 |
-| **Gesamt** | **400** | **≥ 240** |
+| Jedes Modul / Each module | 100 | ≥ 60 |
+| **Gesamt / Total** | **400** | **≥ 240** |
+
+Jedes Modul muss einzeln bestanden werden (mindestens 60% pro Modul).
+*Each module must be passed individually (at least 60% per module).*

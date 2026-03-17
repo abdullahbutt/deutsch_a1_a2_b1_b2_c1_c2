@@ -2,34 +2,33 @@
 
 ## Übersicht / Overview
 
-Das Goethe-Zertifikat B1 bestätigt selbstständige Sprachverwendung. Sie können die Hauptpunkte verstehen, wenn klare Standardsprache verwendet wird und wenn es um vertraute Dinge aus Arbeit, Schule, Freizeit usw. geht.
+Das Goethe-Zertifikat B1 bestätigt selbstständige Sprachverwendung. Sie können die Hauptpunkte verstehen, wenn klare Standardsprache verwendet wird.
 
-**Empfohlene Lernzeit**: 350–650 Unterrichtsstunden (kumulativ)
+*The Goethe-Zertifikat B1 confirms independent language use. You can understand the main points when clear standard language is used.*
+
+**Empfohlene Lernzeit / Recommended study time**: 350–650 Unterrichtsstunden / teaching hours (kumulativ / cumulative)
 
 ## Prüfungsstruktur / Exam Structure
 
-| Modul | Dauer | Punkte | Bestehen |
+| Modul / Module | Dauer / Duration | Punkte / Points | Bestehen / Pass |
 |-------|-------|--------|----------|
-| Lesen | 65 min | 100 | min. 60 |
-| Hören | 40 min | 100 | min. 60 |
-| Schreiben | 60 min | 100 | min. 60 |
-| Sprechen | 15 min | 100 | min. 60 |
-| **Gesamt** | **180 min** | **400** | **min. 240** |
+| Lesen / Reading | 65 min | 100 | min. 60 |
+| Hören / Listening | 40 min | 100 | min. 60 |
+| Schreiben / Writing | 60 min | 100 | min. 60 |
+| Sprechen / Speaking | 15 min | 100 | min. 60 |
+| **Gesamt / Total** | **180 min** | **400** | **min. 240** |
 
 ## Themen / Topics
-- Medien und Kommunikation
-- Gesundheit und Fitness
-- Natur und Umwelt
-- Beruf und Karriere
-- Bildung und Lernen
-- Zusammenleben und Gesellschaft
-- Konsum und Wirtschaft
-- Reisen und Mobilität
-- Kultur und Tradition
-- Wissenschaft und Technik
+- Medien und Kommunikation / Media and communication
+- Gesundheit und Fitness / Health and fitness
+- Beruf und Karriere / Career
+- Bildung und Lernen / Education
+- Umwelt / Environment
+- Konsum und Wirtschaft / Consumer and economy
+- Zusammenleben / Living together
 
 ## Dateien / Files
-1. [Wortschatz](./01_Wortschatz.md) — Vocabulary (ca. 2,400 Wörter kumulativ)
+1. [Wortschatz](./01_Wortschatz.md) — Vocabulary (~700 neue Wörter / new words)
 2. [Grammatik](./02_Grammatik.md) — Grammar rules and exercises
 3. [Sätze](./03_Saetze.md) — Example sentences A–Z
 4. [Lesen](./04_Lesen.md) — Reading exercises

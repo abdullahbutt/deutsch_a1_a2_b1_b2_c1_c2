@@ -1,122 +1,88 @@
 # A2 Hören / Listening
 
 Hörübungen zur Vorbereitung auf das Goethe-Zertifikat A2.
+*Listening exercises to prepare for the Goethe-Zertifikat A2.*
 
 ---
 
-## Prüfungsformat
+## Prüfungsformat / Exam Format
 
-| Teil | Aufgabe | Aufgaben | Hören |
+| Teil / Part | Aufgabe / Task | Aufgaben / Items | Hören / Listen |
 |------|---------|----------|-------|
-| 1 | Ansagen auf dem Anrufbeantworter | 5 | 2x |
-| 2 | Radioansagen/Durchsagen | 5 | 1x |
-| 3 | Alltagsgespräch | 5 | 2x |
-| 4 | Interviews/Gespräche | 5 | 2x |
+| 1 | Ansagen auf dem Anrufbeantworter / Answering machine messages | 5 | 2x |
+| 2 | Radioansagen/Durchsagen / Radio/public announcements | 5 | 1x |
+| 3 | Alltagsgespräch / Everyday conversation | 5 | 2x |
+| 4 | Interviews/Gespräche / Interviews/conversations | 5 | 2x |
 
-**Dauer: ca. 30 Minuten**
-
----
-
-## Strategien
-
-1. **Vor dem Hören:** Alle Aufgaben lesen, Schlüsselwörter markieren
-2. **Schlüsselwörter markieren:** Unterstreichen Sie wichtige Wörter in den Fragen
-3. **Beim ersten Hören:** Versuchen Sie, die Hauptinformation zu verstehen
-4. **Beim zweiten Hören:** Konzentrieren Sie sich auf Details
-5. **Zahlen und Namen:** Besonders auf Uhrzeiten, Preise und Namen achten
-6. **Nicht verstanden?:** Raten Sie — lassen Sie nichts leer!
+**Dauer / Duration: ca. 30 Minuten / minutes**
 
 ---
 
-## Teil 1: Anrufbeantworter-Nachrichten
+## Strategien / Strategies
 
-### Hörtext 1: Zahnarzt
-> Guten Tag, hier ist die Zahnarztpraxis Dr. Hoffmann. Leider müssen wir Ihren Termin am Dienstag, 15. März, um 14 Uhr absagen, weil Herr Dr. Hoffmann erkrankt ist. Wir bieten Ihnen als neuen Termin Donnerstag, den 17. März, um 10 Uhr an. Bitte rufen Sie uns zurück unter 089-3344556. Vielen Dank!
-
-**Fragen:**
-1. Warum wird der Termin abgesagt? — **Dr. Hoffmann ist krank**
-2. Wann ist der neue Termin? — **Donnerstag, 17. März, um 10 Uhr**
-
-### Hörtext 2: Paketdienst
-> Guten Tag, hier ist der Paketdienst Express. Wir haben heute versucht, Ihr Paket zu liefern, aber leider waren Sie nicht zu Hause. Das Paket liegt jetzt bei Ihrem Nachbarn in der Wohnung 4B. Falls Sie Fragen haben, rufen Sie uns an: 0800-1234567.
-
-**Fragen:**
-1. Warum konnte das Paket nicht geliefert werden? — **Niemand war zu Hause**
-2. Wo ist das Paket jetzt? — **Beim Nachbarn in Wohnung 4B**
+1. **Vor dem Hören:** Alle Aufgaben lesen, Schlüsselwörter markieren. *Before listening: Read all tasks, mark keywords.*
+2. **Beim ersten Hören:** Hauptinformation verstehen. *First listening: Understand main information.*
+3. **Beim zweiten Hören:** Auf Details konzentrieren. *Second listening: Focus on details.*
+4. **Zahlen und Namen:** Uhrzeiten, Preise und Namen sofort notieren. *Numbers and names: Note times, prices, and names immediately.*
+5. **Teil 2 nur 1x hören!** Besonders gut konzentrieren! *Part 2 only 1x! Concentrate especially well!*
 
 ---
 
-## Teil 2: Durchsagen
+## Teil 1: Anrufbeantworter / Answering Machine Messages
 
-### Hörtext 3: Supermarkt
-> Liebe Kunden, willkommen bei Kaufland! Heute haben wir besondere Angebote für Sie: Frische Erdbeeren aus Spanien, 500 Gramm nur 1,99 Euro. Außerdem alle Joghurts 20 Prozent günstiger. Die Angebote gelten bis Samstag. Wir wünschen Ihnen einen guten Einkauf!
+### Hörtext 1: Zahnarzt / Dentist
+> Guten Tag, hier ist die Zahnarztpraxis Dr. Hoffmann. Leider müssen wir Ihren Termin am Dienstag um 14 Uhr absagen, weil Herr Dr. Hoffmann erkrankt ist. Wir bieten Ihnen als neuen Termin Donnerstag um 10 Uhr an. Bitte rufen Sie zurück unter 089-3344556.
 
-**Richtig oder Falsch?**
-1. Die Erdbeeren kosten 1,99 Euro pro Kilo. — **Falsch** (500 Gramm)
-2. Joghurts sind diese Woche billiger. — **Richtig**
-3. Die Angebote gelten nur heute. — **Falsch** (bis Samstag)
-
-### Hörtext 4: Bahnhof
-> Sehr geehrte Fahrgäste, wegen Bauarbeiten auf der Strecke zwischen Köln und Bonn fallen heute alle Züge zwischen 22 Uhr und 5 Uhr aus. Es gibt einen Schienenersatzverkehr mit Bussen. Die Busse fahren alle 30 Minuten ab Haupteingang. Wir bitten um Ihr Verständnis.
-
-**Fragen:**
-1. Warum fallen Züge aus? — **Wegen Bauarbeiten**
-2. Was gibt es als Alternative? — **Busse (Schienenersatzverkehr)**
-3. Wie oft fahren die Busse? — **Alle 30 Minuten**
+**Fragen / Questions:**
+1. Warum wird der Termin abgesagt? *(Why is the appointment cancelled?)* — **Dr. Hoffmann ist krank *(Dr. Hoffmann is sick)***
+2. Wann ist der neue Termin? *(When is the new appointment?)* — **Donnerstag um 10 Uhr *(Thursday at 10 AM)***
 
 ---
 
-## Teil 3: Alltagsgespräche
+## Teil 2: Durchsagen / Announcements
 
-### Dialog 1: Wohnung mieten
+### Hörtext 3: Supermarkt / Supermarket
+> Liebe Kunden, heute haben wir besondere Angebote: Frische Erdbeeren, 500 Gramm nur 1,99 Euro. Außerdem alle Joghurts 20 Prozent günstiger. Die Angebote gelten bis Samstag.
+
+**Richtig oder Falsch? / True or False?**
+1. Die Erdbeeren kosten 1,99 Euro pro Kilo. *(Strawberries cost 1.99 per kilo.)* — **Falsch / False** (500 Gramm)
+2. Joghurts sind diese Woche billiger. *(Yogurts are cheaper this week.)* — **Richtig / True**
+3. Die Angebote gelten nur heute. *(Offers valid only today.)* — **Falsch / False** (bis Samstag / until Saturday)
+
+---
+
+## Teil 3: Alltagsgespräche / Everyday Conversations
+
+### Dialog 1: Wohnung mieten / Renting an Apartment
 > — Guten Tag, ich rufe wegen der Wohnungsanzeige an.
-> — Ja, die Wohnung ist noch frei. Es ist eine 2-Zimmer-Wohnung mit Balkon.
-> — Wie groß ist sie?
-> — 55 Quadratmeter. Sie liegt im dritten Stock und hat eine Einbauküche.
+> — Ja, die Wohnung ist noch frei. 2 Zimmer mit Balkon, 55 Quadratmeter im 3. Stock mit Einbauküche.
 > — Was kostet sie?
 > — 520 Euro kalt plus 150 Euro Nebenkosten.
-> — Gibt es einen Aufzug?
-> — Nein, leider nicht. Aber es gibt einen Kellerraum.
-> — Kann ich die Wohnung besichtigen?
-> — Ja, gerne. Wie wäre es am Mittwoch um 16 Uhr?
-> — Das passt. Bis dann!
+> — Kann ich besichtigen? Mittwoch um 16 Uhr?
+> — Ja, gerne. Bis dann!
 
-**Fragen:**
-1. Wie viele Zimmer hat die Wohnung? — **2 Zimmer**
-2. Hat sie eine Küche? — **Ja, eine Einbauküche**
-3. In welchem Stock ist die Wohnung? — **Im 3. Stock**
-4. Wie viel kostet sie insgesamt? — **670 Euro (520 + 150)**
-5. Wann ist die Besichtigung? — **Mittwoch um 16 Uhr**
+**Fragen / Questions:**
+1. Wie viele Zimmer? *(How many rooms?)* — **2 Zimmer**
+2. Gesamtkosten? *(Total cost?)* — **670 Euro (520 + 150)**
+3. Wann Besichtigung? *(When is the viewing?)* — **Mittwoch um 16 Uhr *(Wednesday at 4 PM)***
 
 ---
 
-## Teil 4: Interviews
+## Schlüsselwortschatz / Key Vocabulary
 
-### Interview: Hobby und Freizeit
-> **Moderator:** Heute sprechen wir mit Frau Chen über ihre Hobbys. Frau Chen, was machen Sie in Ihrer Freizeit?
-> **Frau Chen:** Ich gehe zweimal pro Woche schwimmen und am Wochenende wandere ich gern in den Bergen.
-> **Moderator:** Seit wann machen Sie das?
-> **Frau Chen:** Das Schwimmen mache ich seit meiner Kindheit. Mit dem Wandern habe ich erst vor zwei Jahren angefangen, als ich nach München gezogen bin.
-> **Moderator:** Machen Sie das allein?
-> **Frau Chen:** Nein, ich bin Mitglied in einem Wanderverein. Das ist toll, weil man neue Leute kennenlernt und die Natur gemeinsam genießen kann.
-
-**Fragen:**
-1. Wie oft geht Frau Chen schwimmen? — **Zweimal pro Woche**
-2. Seit wann wandert sie? — **Seit zwei Jahren**
-3. Warum gefällt ihr der Wanderverein? — **Man lernt neue Leute kennen und genießt die Natur**
+| Deutsch | Englisch | Deutsch | Englisch |
+|---------|----------|---------|----------|
+| die Durchwahl | extension | die Verspätung | delay |
+| der Anrufbeantworter | answering machine | der Ausfall | cancellation |
+| zurückrufen | to call back | die Umleitung | diversion |
+| besetzt | busy | voraussichtlich | expected |
+| eine Nachricht hinterlassen | to leave a message | die Bauarbeiten | construction |
 
 ---
 
-## Schlüsselwortschatz für Hörübungen
+## Tipps für die Prüfung / Exam Tips
 
-### Am Telefon
-die Durchwahl (extension), der Anrufbeantworter (answering machine), eine Nachricht hinterlassen (leave a message), zurückrufen (call back), besetzt (busy), verbinden (to connect)
-
-### Durchsagen
-die Verspätung (delay), der Ausfall (cancellation), die Umleitung (diversion), der Ersatzverkehr (replacement service), die Bauarbeiten (construction work), voraussichtlich (expected)
-
-### Tipps
-1. Notieren Sie sofort: Zahlen, Uhrzeiten, Daten, Namen, Preise
-2. Achten Sie auf Negationen: nicht, kein, leider, ohne
-3. Teil 2 hört man nur EINMAL — konzentrieren Sie sich!
-4. Kontext hilft: Wo findet das Gespräch statt? Wer spricht?
+1. **Notieren Sie sofort:** Zahlen, Uhrzeiten, Preise, Namen. *Write down immediately: numbers, times, prices, names.*
+2. **Achten Sie auf Negationen:** nicht, kein, leider, ohne. *Watch for negations: not, no, unfortunately, without.*
+3. **Teil 2 nur EINMAL hören** — sehr gut konzentrieren! *Part 2 only ONCE — concentrate very well!*
+4. **Nie leer lassen!** *Never leave blank!* — Immer eine Antwort ankreuzen. *Always mark an answer.*

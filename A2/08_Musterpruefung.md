@@ -1,125 +1,78 @@
 # A2 Musterprüfung / Sample Exam
 
-Goethe-Zertifikat A2 — Modelltest
+Goethe-Zertifikat A2 — Modelltest / Model Test
 
 ---
 
-## LESEN (30 Minuten, 45 Punkte)
+## LESEN / READING (30 Minuten / minutes, 45 Punkte / points)
 
-### Teil 1 (5 Aufgaben, 10 Punkte)
+### Teil 1: Informationstext / Information Text (10 Punkte)
 
-**Online-Informationen lesen. Richtig (R), Falsch (F) oder Nicht im Text (N)?**
+Richtig (R), Falsch (F) oder Nicht im Text (N)? *True, False, or Not in text?*
 
-> **Stadtbücherei Frankfurt — Informationen**
+> **Stadtbücherei Frankfurt**
 > Öffnungszeiten: Mo–Fr 10:00–19:00, Sa 10:00–15:00
-> Mitgliedschaft: 15 Euro pro Jahr (Schüler und Studenten: 8 Euro)
+> Mitgliedschaft: 15 Euro/Jahr (Studenten: 8 Euro)
 > Ausleihe: Max. 10 Bücher für 4 Wochen
-> Verlängerung: Online oder telefonisch möglich
-> Fernleihe: Bücher aus anderen Bibliotheken bestellbar (3 Euro pro Buch)
-> Internet: Kostenlose WLAN-Nutzung für Mitglieder
-> Veranstaltungen: Lesungen jeden ersten Mittwoch im Monat
+> WLAN: Kostenlos für Mitglieder
 
-1. Am Sonntag ist die Bibliothek geöffnet. → **F**
-2. Studenten zahlen weniger. → **R**
-3. Man kann 15 Bücher ausleihen. → **F** (max. 10)
-4. Man kann Bücher online verlängern. → **R**
-5. Die WLAN-Nutzung kostet 5 Euro. → **F** (kostenlos)
-
-### Teil 2 (5 Aufgaben, 10 Punkte)
-
-**Zeitungsmeldung. Wählen Sie a, b oder c.**
-
-> In Deutschland arbeiten immer mehr Menschen von zu Hause. Eine neue Studie zeigt, dass 25 Prozent der Arbeitnehmer mindestens einmal pro Woche im Homeoffice arbeiten. Besonders beliebt ist das Arbeiten von zu Hause bei Eltern mit kleinen Kindern und bei Pendlern, die lange Fahrwege haben. Die meisten Unternehmen bieten ihren Mitarbeitern mittlerweile flexible Arbeitszeiten an. Allerdings sagen viele Arbeitnehmer, dass sie den Kontakt zu den Kollegen vermissen.
-
-6. Wie viel Prozent arbeiten regelmäßig im Homeoffice? → **b) 25%** ✓
-7. Wer arbeitet besonders gern von zu Hause? → **c) Eltern und Pendler** ✓
-8. Was bieten viele Firmen an? → **a) Flexible Arbeitszeiten** ✓
-9. Was fehlt vielen im Homeoffice? → **b) Der Kontakt zu Kollegen** ✓
-10. Die Studie sagt, Homeoffice wird weniger. → **Falsch**
-
-### Teil 3 (5 Aufgaben, 10 Punkte)
-
-**Kleinanzeigen zuordnen (wie A1, aber komplexere Texte)**
-
-### Teil 4 (5 Aufgaben, 15 Punkte)
-
-**Forumsbeiträge: Thema "Umweltschutz im Alltag"**
-
-> **GrüneMarie:** Ich versuche, weniger Plastik zu benutzen. Ich bringe immer meine eigene Tasche zum Einkaufen mit und kaufe Obst und Gemüse auf dem Wochenmarkt. Das ist auch frischer!
-
-> **ÖkoPeter:** Ich fahre jeden Tag mit dem Fahrrad zur Arbeit, auch wenn es regnet. Das ist gut für die Umwelt und für meine Gesundheit. Außerdem spare ich viel Geld für Benzin.
-
-> **NaturLisa:** Bei uns zu Hause trennen wir den Müll sehr genau. Papier, Glas, Plastik, Bio — alles kommt in die richtige Tonne. Und wir kaufen möglichst regionale Produkte.
-
-11. GrüneMarie kauft auf dem Wochenmarkt, weil es umweltfreundlicher ist. → **R**
-12. ÖkoPeter fährt nur bei gutem Wetter Fahrrad. → **F**
-13. ÖkoPeter spart durch das Radfahren Geld. → **R**
-14. NaturLisa trennt ihren Müll. → **R**
-15. NaturLisa kauft gern importierte Produkte. → **F**
+1. Am Sonntag ist die Bibliothek geöffnet. *(The library is open on Sunday.)* → **F**
+2. Studenten zahlen weniger. *(Students pay less.)* → **R**
+3. Man kann 15 Bücher ausleihen. *(You can borrow 15 books.)* → **F** (max. 10)
+4. Man kann Bücher online verlängern. *(You can renew books online.)* → **N**
+5. WLAN ist kostenlos. *(WiFi is free.)* → **R**
 
 ---
 
-## HÖREN (30 Minuten, 45 Punkte)
+## HÖREN / LISTENING (30 Minuten / minutes, 45 Punkte / points)
 
-*(Transkripte zum Üben — in der echten Prüfung hören Sie Audio)*
+### Teil 1: Anrufbeantworter / Answering Machine (5 Aufgaben)
 
-### Teil 1: Anrufbeantworter (5 Aufgaben)
+> Hallo Frau Meier, hier ist die Autowerkstatt Schulz. Ihr Auto ist fertig. Es gab ein Problem mit der Bremse, das haben wir repariert. Die Kosten betragen 185 Euro. Sie können ab morgen Nachmittag abholen.
 
-> Hallo Frau Meier, hier ist die Autowerkstatt Schulz. Ihr Auto ist fertig. Es gab ein Problem mit der Bremse, aber das haben wir repariert. Die Kosten betragen 185 Euro. Sie können das Auto ab morgen Nachmittag abholen. Bitte bringen Sie den Fahrzeugschein mit. Rufen Sie uns an unter 0221-4455667.
-
-16. Was wurde am Auto repariert? → **Die Bremse**
-17. Was kostet die Reparatur? → **185 Euro**
-18. Wann kann sie das Auto abholen? → **Ab morgen Nachmittag**
-
-### Teil 2-4: (Weitere Hörübungen nach gleichem Muster)
+1. Was wurde repariert? *(What was repaired?)* → **Die Bremse *(The brake)***
+2. Was kostet es? *(How much does it cost?)* → **185 Euro**
+3. Wann abholen? *(When to pick up?)* → **Ab morgen Nachmittag *(From tomorrow afternoon)***
 
 ---
 
-## SCHREIBEN (30 Minuten, 45 Punkte)
+## SCHREIBEN / WRITING (30 Minuten / minutes, 45 Punkte / points)
 
-### Teil 1 (15 Punkte)
-Ihre Freundin Elena hat ein neues Baby bekommen. Schreiben Sie ihr (30–40 Wörter):
-- Gratulation
-- Frage: Wie heißt das Baby?
-- Vorschlag: Besuchen
+### Teil 1 (15 Punkte / points)
+Ihre Freundin Elena hat ein Baby bekommen. Schreiben Sie ihr (30–40 Wörter): *Your friend Elena had a baby. Write to her:*
+- Gratulation / Congratulations
+- Frage: Wie heißt das Baby? / Question: Baby's name?
+- Vorschlag: Besuchen / Suggestion: Visit
 
-### Teil 2 (30 Punkte)
-Sie haben ein Zimmer in einer Sprachschule reserviert, aber möchten jetzt stornieren. Schreiben Sie an die Schule (50–60 Wörter):
-- Welche Reservierung?
-- Warum stornieren?
-- Geld zurück?
-
----
-
-## SPRECHEN (15 Minuten, 45 Punkte, Paarprüfung)
-
-### Teil 1: Über sich erzählen
-Thema: **Ihre Arbeit oder Ausbildung**
-- Was machen Sie beruflich?
-- Was gefällt Ihnen daran?
-- Was möchten Sie in Zukunft machen?
-
-### Teil 2: Alltagssituation
-Karte A: Sie brauchen einen neuen Internetanschluss. Rufen Sie beim Anbieter an.
-Karte B: Sie arbeiten beim Internetanbieter. Beraten Sie den Kunden.
-
-### Teil 3: Gemeinsam planen
-**Aufgabe:** Sie möchten zusammen ein Wochenende in Hamburg verbringen.
-Besprechen Sie: Wann? Wie hinfahren? Wo übernachten? Was machen? Was mitnehmen?
+### Teil 2 (30 Punkte / points)
+Sie möchten ein Zimmer in einer Sprachschule stornieren. Schreiben Sie an die Schule (50–60 Wörter): *You want to cancel a room reservation at a language school. Write to the school:*
+- Welche Reservierung? / Which reservation?
+- Warum stornieren? / Why cancel?
+- Geld zurück? / Money back?
 
 ---
 
-## Lösungsschlüssel
+## SPRECHEN / SPEAKING (15 Minuten / minutes, 45 Punkte / points)
 
-| Nr. | Lösung | Nr. | Lösung |
-|-----|--------|-----|--------|
-| 1 | F | 9 | b |
-| 2 | R | 10 | F |
-| 3 | F | 11 | R |
-| 4 | R | 12 | F |
-| 5 | F | 13 | R |
-| 6 | b | 14 | R |
-| 7 | c | 15 | F |
-| 8 | a | 16 | Bremse |
+### Teil 1: Über sich erzählen / Talk about yourself
+Thema / Topic: **Ihre Arbeit oder Ausbildung / Your work or education**
 
-**Bestehen:** Mindestens 60% in jedem Modul (27 von 45 Punkten).
+### Teil 2: Alltagssituation / Everyday situation
+Sie brauchen einen neuen Internetanschluss. Rufen Sie beim Anbieter an.
+*You need a new internet connection. Call the provider.*
+
+### Teil 3: Gemeinsam planen / Plan together
+**Aufgabe / Task:** Wochenende in Hamburg planen. *Plan a weekend in Hamburg.*
+Besprechen Sie / Discuss: Wann? Wie hinfahren? *(How to get there?)* Wo übernachten? *(Where to stay?)* Was machen? *(What to do?)*
+
+---
+
+## Bewertung / Scoring
+
+| Modul / Module | Maximum | Bestehen / Pass |
+|-------|---------|----------|
+| Jedes Modul / Each module | 45 | ≥ 27 |
+| **Gesamt / Total** | **180** | **≥ 108** |
+
+Jedes Modul muss einzeln bestanden werden (mindestens 60%).
+*Each module must be passed individually (at least 60%).*
